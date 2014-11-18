@@ -1,0 +1,46 @@
+.\" Process this file with
+.\" groff -man -Tascii DOC
+.\"
+.TH  "NOV 2014" Linux "User Manuals"
+.SH NAME
+ \- Airline Reservation System for Operating Systems project
+.
+.SH DESCRIPTION
+.B This is a course project as a multithread web server for airline reservation system.
+.B We extended the server from single-thread towards multi-thread, leading to better performace.
+
+
+.IP "Basic Points"
+
+ 
+.BR "thread pool"
+
+
+
+
+.\"SH OPTIONS
+
+.\".SH FILES
+.\".I /etc/foo.conf
+.\".RS
+.\"The system wide configuration file. See
+.\".BR foo (5)
+.\"for further details.
+.\".RE
+.\".I ~/.foorc
+.\".RS
+.\"Per user configuration file. See
+.\".BR foo (5)
+.\"for further details.
+.\".SH ENVIRONMENT
+
+.SH TO BE DONE
+.SH AUTHOR
+
+.B Weixiao Fu (wfj797) <weixiaofu2014@u.northwestern.edu               
+
+.B Yang Hu (yhx189) <yanghu2019@u.northwestern.edu>
+.\"SH "SEE ALSO"
+.\"BR bar (1),
+.\"BR foo (5),
+.\"BR xyzzy (1)
